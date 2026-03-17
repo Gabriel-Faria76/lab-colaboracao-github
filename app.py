@@ -1,2 +1,3 @@
-def saudacao():
-	print("Olá Mundo")
+def saudacao(nome):
+	print(f"Olá, {nome}! Seja bem-vindo.")
+
